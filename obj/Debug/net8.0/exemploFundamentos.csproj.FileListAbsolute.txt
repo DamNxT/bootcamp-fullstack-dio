@@ -1,0 +1,14 @@
+C:\Users\danilo\Desktop\C#\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.exe
+C:\Users\danilo\Desktop\C#\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.deps.json
+C:\Users\danilo\Desktop\C#\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.runtimeconfig.json
+C:\Users\danilo\Desktop\C#\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.dll
+C:\Users\danilo\Desktop\C#\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.pdb
+C:\Users\danilo\Desktop\C#\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilo\Desktop\C#\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.AssemblyInfoInputs.cache
+C:\Users\danilo\Desktop\C#\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.AssemblyInfo.cs
+C:\Users\danilo\Desktop\C#\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\danilo\Desktop\C#\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.dll
+C:\Users\danilo\Desktop\C#\exemploFundamentos\obj\Debug\net8.0\refint\exemploFundamentos.dll
+C:\Users\danilo\Desktop\C#\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.pdb
+C:\Users\danilo\Desktop\C#\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.genruntimeconfig.cache
+C:\Users\danilo\Desktop\C#\exemploFundamentos\obj\Debug\net8.0\ref\exemploFundamentos.dll
